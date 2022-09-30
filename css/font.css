@@ -1,0 +1,29 @@
+/* Circe */
+
+@font-face {
+    font-family: "Circe";
+    src: url(../fonts/circe-light.ttf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Circe";
+    src: url(../fonts/circe.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Circe";
+    src: url(../fonts/circe-bold.ttf);
+    font-weight: 700;
+}
+
+/* Circe */
+
+@font-face {
+    font-family: "Exo";
+    src: url(../fonts/exo_2/Exo2-Regular.otf);
+}
+
+/* exo 2 */
+
